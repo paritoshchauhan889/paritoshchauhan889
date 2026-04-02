@@ -149,5 +149,7 @@
 <div align="center">
 
 **Last Updated:** April 2, 2026
+## 🐍 Contribution Snake
 
+![snake](https://github.com/paritoshchauhan889/paritoshchauhan889/blob/output/github-contribution-grid-snake.svg)
 </div>
