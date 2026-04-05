@@ -64,20 +64,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-![Paritosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paritoshchauhan889&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paritoshchauhan889&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=paritoshchauhan889&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
-
----
-
 ## 🚀 **Current Focus**
 
 - 🔭 Building full-stack applications with **Next.js** & **Node.js**
