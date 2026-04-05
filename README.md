@@ -59,7 +59,6 @@
 ### 🔨 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -97,7 +96,7 @@
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Mantine, shadcn/ui |
 | **Backend** | Node.js, Express, .NET, C#, PHP, Laravel, REST APIs |
 | **Databases** | MongoDB, PostgreSQL, MySQL, MSSQL, SQLite |
-| **DevOps** | Docker, Git, GitHub, CI/CD Pipelines, AWS |
+| **DevOps** | Docker, Git, GitHub, CI/CD Pipelines |
 | **Other** | System Design, Microservices, Authentication, Caching |
 
 ---
@@ -139,8 +138,6 @@
 <div align="center">
 
 ### ⚡ *"Code is poetry, and I write beautiful verses!"* ⚡
-
-⭐ **If you find my work interesting, consider giving it a star!** ⭐
 
 </div>
 
